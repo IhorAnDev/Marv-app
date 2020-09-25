@@ -1,0 +1,27 @@
+.center{
+    text-align:center;
+}
+.name_hero{
+    color:yellowgreen;
+    font-size:2rem;
+    font-weight: bolder;
+    font-family: 'Comic Neue', cursive;
+}
+.description_hero{
+    font-family: 'Comic Neue', cursive;
+}
+.row_hero{
+    display:flex;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    justify-content: center;
+}
+.input_hero{
+    border:1px solid red;
+    width: 40%;
+    outline:none;
+    
+}
+.btn_hero{
+    outline: none;
+}

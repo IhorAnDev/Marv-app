@@ -1,0 +1,12 @@
+.bg_body{
+    background-image: url('https://cutewallpaper.org/21/comic-wallpaper-hd/66+-Marvel-Comic-Wallpapers-on-WallpaperPlay.jpg');
+    height:91vh;
+}
+.img_body{
+    width: 28%;
+    margin: auto;
+    display: block;
+    border-radius: 6%;
+    padding-top: 196px;
+    
+}

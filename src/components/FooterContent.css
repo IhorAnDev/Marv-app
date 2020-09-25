@@ -1,0 +1,21 @@
+.footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 64px;
+}
+.footer_img{
+    width: 8%;
+    height: 34px;
+}
+.fotter_row{
+    display:flex;
+    justify-content: space-between;
+    margin-top: 8px;
+}
+.fotter_row a{
+    color:red;
+    font-size: 18px;
+    font-family: 'Comic Neue', cursive;
+    
+}
